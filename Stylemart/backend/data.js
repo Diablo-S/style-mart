@@ -1,7 +1,7 @@
 const data = {
     products: [
         {
-            _id: '1',
+            // _id: '1',
             name: 'Van Heusen Slim Fit Shirt',
             slug: 'van huesen-slim-shirt',
             category: 'Shirts',
@@ -14,7 +14,7 @@ const data = {
             description: 'Good Quality Slim Fit Shirt'
         },
         {
-            _id: '2',
+            // _id: '2',
             name: 'Cantabill Formal Pant',
             slug: 'cantabill-formal-pant',
             category: 'Pants',
@@ -27,7 +27,7 @@ const data = {
             description: 'Comfortable Formal Wear',
         },
         {
-            _id: '3',
+            // _id: '3',
             name: 'Woodland Casual Shirt',
             slug: 'woodland-shirt',
             category: 'Shirts',
@@ -40,7 +40,7 @@ const data = {
             description: 'Casual Wears',
         },
         {
-            _id: '4',
+            // _id: '4',
             name: 'Monte Carlo Casual Jeans',
             slug: 'monte carlo-jeans',
             category: 'Pants',
@@ -53,7 +53,7 @@ const data = {
             description: 'Comfortable Jeans',
         },
         {
-            _id: '5',
+            // _id: '5',
             name: 'Allen Solly T-Shirt',
             slug: 'allen-solly-t-shirt',
             category: 'Shirts',
@@ -66,7 +66,7 @@ const data = {
             description: 'Collar T-Shirt',
         },
         {
-            _id: '6',
+            // _id: '6',
             name: 'Monte Carlo Cargo Jeans',
             slug: 'monte carlo-cargo-jeans',
             category: 'Pants',
@@ -79,7 +79,7 @@ const data = {
             description: 'Rough and Tough Jeans',
         },
         {
-            _id: '7',
+            // _id: '7',
             name: 'Octave T-Shirt',
             slug: 'octave-t-shirt',
             category: 'Shirts',
@@ -92,7 +92,7 @@ const data = {
             description: 'Round neck T-shirt',
         },
         {
-            _id: '8',
+            // _id: '8',
             name: 'Nike Track Pants',
             slug: 'nike-lower',
             category: 'Pants',
@@ -105,7 +105,7 @@ const data = {
             description: 'Comfortable track pants',
         },
         {
-            _id: '9',
+            // _id: '9',
             name: 'Adidas Sports T-shirt',
             slug: 'adidas-t-shirt',
             category: 'Shirts',
@@ -118,7 +118,7 @@ const data = {
             description: 'Comfortable sports t-shirt',
         },
         {
-            _id: '10',
+            // _id: '10',
             name: 'Adidas Sports shorts',
             slug: 'adidas-shorts',
             category: 'Pants',
