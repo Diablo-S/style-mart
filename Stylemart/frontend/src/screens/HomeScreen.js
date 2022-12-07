@@ -76,6 +76,7 @@ import Product from "../Components/Product";
 import { Helmet } from "react-helmet-async";
 import LoadingBox from "../Components/LoadingBox";
 import MessageBox from "../Components/MessageBox";
+import Slider from "../Components/Slider";
 // import data from "../data";
 
 const reducer = (state, action) => {
@@ -117,6 +118,7 @@ function HomeScreen() {
             <Helmet>
                 <title>StyleMart</title>
             </Helmet>
+            <Slider/>
             <h1>Featured Products</h1>
             <div className="products">
                 {

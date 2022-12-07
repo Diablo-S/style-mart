@@ -20,6 +20,15 @@ main {
   color: #000000;
 }
 
+.btn-outline-primary {
+  background-color: #ffcc99;
+  color: #000000;
+}
+
+.slider{
+  margin: 1rem;
+}
+
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -64,4 +73,59 @@ main {
 .checkout-steps>div.active {
   border-bottom: 0.2rem solid #f08000;
   color: #f08000;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.side-navbar {
+  width: 240px;
+  height: 100%;
+  position: absolute;
+  left: -300px;
+  background-color: #100901;
+  transition: 0.5s;
+}
+
+.site-container {
+  transition: 0.4s;
+}
+
+.active-cont {
+  margin-left: 240px;
+}
+
+.active-nav {
+  left: 0;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+/* Footer */
+.footer {
+  background-color: rgb(22, 22, 22);
+  margin-top: 1rem;
+  padding: 15px;
+}
+
+.footer_rule {
+  margin: 15px;
+  width: 95%;
+  color: white;
+}
+
+.footer_content {
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  font-size: larger;
+  text-align: center;
+  line-height: 200%;
+  color: rgba(255, 255, 255, 0.856);
+  margin-bottom: 10px;
+}
+
+#social {
+  text-align: center;
 }
