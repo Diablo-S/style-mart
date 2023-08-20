@@ -41,7 +41,7 @@ export default function ProfileScreen() {
       }
     try {
       const { data } = await axios.put(
-        '/api/users/profile',
+        'https://style-mart.onrender.com/api/users/profile',
         {
           name,
           email,
