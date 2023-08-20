@@ -158,7 +158,7 @@ function App() {
                 <Route path="/signup" element={<SignupScreen />} />
                 <Route path="/profile" element={<ProfileScreen />} />
                 <Route path="/contactus" element={<Contact />} />
-                <Route path="/aboutus" element={<About />} />
+                <Route path="/aboutus" element={<About name="shreyash"/>} />
                 <Route path="/placeorder" element={<PlaceOrderScreen />} />
                 <Route path="/shipping" element={<ShippingAddressScreen />} />
                 <Route path="/payment" element={<PaymentMethodScreen />}></Route>
